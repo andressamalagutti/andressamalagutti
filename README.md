@@ -26,4 +26,5 @@
  <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=andressamalagutti&theme=cobalt&show_icons=true&include_all=commits=true&count"/>
  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressamalagutti&layout=compact&langs_count=16&theme=cobalt"/>
  </div>
+ 
 ![snake gif](https://github.com/andressamalagutti/andressamalagutti/blob/output/github-contribution-grid-snake.gif)
