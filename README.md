@@ -1,6 +1,6 @@
  # Olá!👋
 
-## Atualmente estou fazendo mentoria com o objetivo de aprender a stack MERN:
+### Atualmente estou fazendo mentoria com o objetivo de aprender a stack MERN:
 <div style="display: inline_block">
    <img align="center" alt="MongoDB" height="70" width="25%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
    <img align="center" alt="React" height="70" width="25%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
