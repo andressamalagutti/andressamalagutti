@@ -10,7 +10,7 @@
 
 ##
 
-## A mentoria também contempla:
+### A mentoria também contempla:
 - 🧾Testes automatizados
 - ☁ Deploy na nuvem AWS
 - 🚢 Docker
