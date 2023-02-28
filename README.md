@@ -1,11 +1,11 @@
  # Olá!👋
 
 ## Atualmente estou fazendo mentoria com o objetivo de aprender a stack MERN:
-<div style="display: inline_block"><br>
-   <img align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
-   <img align="center" alt="express" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon-express-original-wordmark" >
-   <img align="center" alt="React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<div style="display: inline_block">
+   <img align="center" alt="MongoDB" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+   <img align="center" alt="React" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Node" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+   <img align="center" alt="express" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon-express-original-wordmark" >
 </div>
 
 ##
@@ -14,11 +14,11 @@
 - 🧾Testes automatizados
 - ☁ Deploy na nuvem AWS
 - 🚢 Docker
-
+##
 <br>
 <div >
  <a href= "https://github.com/andressamalagutti">
- <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=andressamalagutti&theme=cobalt&show_icons=true&include_all=commits=true&count"/>
+ <img height = "180em" src="https://github-readme-stats.vercel.app/api?username=andressamalagutti&theme=cobalt&show_icons=true&include_all=commits=true&count"/><br><br>
  <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressamalagutti&layout=compact&langs_count=16&theme=cobalt"/>
  </div>
  
