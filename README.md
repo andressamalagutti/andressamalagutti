@@ -1,6 +1,6 @@
  # Olá!👋
 
-### Atualmente estou fazendo mentoria com o objetivo de aprender a stack MERN:
+### Atualmente estou fazendo mentoria  Criação de sistemas web Typedev Menthor:
 <div style="display: inline_block">
    <img align="center" alt="MongoDB" height="60" width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
    <img align="center" alt="express" height="50" width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" >
