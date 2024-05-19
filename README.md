@@ -2,7 +2,7 @@
 
 ### Atualmente estou fazendo mentoria  Criação de sistemas web Typedev Menthor:
 <div style="display: inline_block">
-   <img align="center" alt="MongoDB" height="60" width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
+   <img align="center" alt="Banco de dados " height="60" width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg">
    <img align="center" alt="express" height="50" width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" >
    <img align="center" alt="React" height="50" width="20%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
    <img align="center" alt="Node" height="60" width="20%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
